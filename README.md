@@ -8,6 +8,8 @@ By default puts .js test files on the left and .js sources on the right
 ```
 apm install PaneSort
 ```
+### Usage
+Sort: ctrl + alt + enter 
 
 ### Features
 
