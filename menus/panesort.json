@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "PaneSort: pane cleaning",
+        "command": "PaneSort:sort"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "PaneSort",
+          "submenu": [
+            {
+              "label": "Sort",
+              "command": "PaneSort:sort"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
